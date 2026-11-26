@@ -136,11 +136,11 @@
 <table align="center" width="95%">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/deekshagarg1/College-Event-Management-System">🎓 College Event Management System</a></h3>
+      <h3 align="center"><a href="https://github.com/deekshagarg1/CEMS">🎓 College Event Management System</a></h3>
       <p>Full-stack campus event platform with Role-Based Access Control (RBAC), user authentication, RESTful APIs, and streamlined event registration for students and faculty.</p>
       <p align="center">
         <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code><br/><br/>
-        <a href="https://github.com/deekshagarg1/College-Event-Management-System"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Repo" /></a>
+        <a href="https://github.com/deekshagarg1/CEMS"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Repo" /></a>
       </p>
     </td>
     <td width="33%" valign="top">
