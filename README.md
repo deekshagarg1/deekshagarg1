@@ -1,13 +1,11 @@
 <!-- Header Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:60a5fa&height=200&section=header&text=Deeksha%20Garg&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20%26%20Java%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://raw.githubusercontent.com/deekshagarg1/deekshagarg1/main/banner.svg" width="100%" alt="Deeksha Garg Banner" />
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=4F75FF&center=true&vCenter=true&width=700&lines=🚀+Building+Full-Stack+Web+Applications;💻+Crafting+Interactive+UI%2FUX+with+React;⚡+Engineering+Scalable+REST+APIs+%26+Databases" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/deekshagarg1/deekshagarg1/main/typing.svg" alt="Animated Tagline" />
 </div>
 
 <hr/>
